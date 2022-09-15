@@ -24,7 +24,7 @@ Hey there 👋 I am Devleena Das
 ## :woman_technologist: About Me :
 ### Student of Computer Science & Engineering
 ### Web Development Enthusiast
-### Creative mind, always busy to explore
+### Creative mind,busy to explore
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
