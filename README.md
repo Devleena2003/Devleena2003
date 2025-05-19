@@ -11,7 +11,7 @@
   <a href="https://twitter.com/Das__Devleena" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://discord.com/channels/@_devleena" target="_blank"> <!-- **REPLACE THIS LINK!** -->
+  <a href="https://discord.com/@_devleena" target="_blank"> <!-- **REPLACE THIS LINK!** -->
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
@@ -22,7 +22,7 @@
 
 Hello! I'm Devleena, a passionate Computer Science and Engineering finalist on a mission to build impactful digital experiences. My journey is fueled by a blend of technical skill, creative design, and an insatiable curiosity for what's next in tech.
 
-*   **Crafting Digital Solutions:** I thrive on transforming ideas into reality, whether it's architecting **responsive websites**, developing robust **full-stack applications (MERN)**, or creating intuitive **native mobile apps (React Native)** that solve real-world problems.
+*   **Crafting Digital Solutions:** I thrive on transforming ideas into reality, whether it's architecting **responsive websites**, developing robust **Full-Stack applications (MERN)**, or creating intuitive **Native Mobile Apps (React Native)** that solve real-world problems.
 *   **Designing with Empathy:** My approach to **UI/UX Design** is user-centric, focusing on creating interfaces that are not just beautiful, but also accessible and a joy to interact with.
 *   **Venturing into New Frontiers:** The ever-evolving tech landscape excites me! I'm actively engaging with **Generative AI**, exploring its creative and practical applications, and delving into the decentralized world of **Blockchain technology**. My exploration into **Machine Learning** also continues, with a focus on predictive modeling and data-driven insights.
 
