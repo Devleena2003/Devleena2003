@@ -1,7 +1,7 @@
 <div id="hero-banner" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Devleena Das - Tech Explorer"/>
   <h1>Devleena Das</h1>
-  <p><em>Final Year CSE Student | Full-Stack Developer | Mobile App Creator | UI/UX Designer | Emerging Tech Enthusiast</em></p>
+  <p><em> Building Scalable & Human-Centered Tech | Full-Stack Developer | First-Author @ ICCV 2025 | Mobile App Creator | UI/UX Designer | Emerging Tech Enthusiast</em></p>
 </div>
 
 <div id="social-connect" align="center">
@@ -20,7 +20,7 @@
 
 ## 💡 My Journey: From Code to Creation
 
-Hello! I'm Devleena, a passionate Computer Science and Engineering finalist on a mission to build impactful digital experiences. My journey is fueled by a blend of technical skill, creative design, and an insatiable curiosity for what's next in tech.
+Hello! I'm Devleena, a passionate Computer Science and Engineering student on a mission to build impactful digital experiences. My journey is fueled by a blend of technical skill, creative design, and an insatiable curiosity for what's next in tech.
 
 *   **Crafting Digital Solutions:** I thrive on transforming ideas into reality, whether it's architecting **responsive websites**, developing robust **Full-Stack applications (MERN)**, or creating intuitive **Native Mobile Apps (React Native)** that solve real-world problems.
 *   **Designing with Empathy:** My approach to **UI/UX Design** is user-centric, focusing on creating interfaces that are not just beautiful, but also accessible and a joy to interact with.
