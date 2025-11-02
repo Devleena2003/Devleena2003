@@ -18,6 +18,8 @@
 
 ---
 
+## 🌟 Check out my portfolio: https://devleena-portfolio-cts5.vercel.app/
+
 ## 💡 My Journey: From Code to Creation
 
 Hello! I'm Devleena, a passionate Computer Science and Engineering student on a mission to build impactful digital experiences. My journey is fueled by a blend of technical skill, creative design, and an insatiable curiosity for what's next in tech.
