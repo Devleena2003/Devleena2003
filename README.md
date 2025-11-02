@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 Check out my portfolio:  <a href="https://devleena-portfolio-cts5.vercel.app/" target="_blank"> My_Portfolio </a> 
+## 🌟 Check out my portfolio:  <a href="https://devleena-portfolio-cts5.vercel.app/" target="_blank"> my_portfolio </a> 
 
 ## 💡 My Journey: From Code to Creation
 
@@ -48,7 +48,7 @@ Here's a glimpse of the technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
-  <!-- Add icons for Python, AI/ML specific libraries if prominent -->
+
 </div>
 *...and always learning more!*
 
