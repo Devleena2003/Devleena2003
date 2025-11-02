@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 Check out my portfolio: https://devleena-portfolio-cts5.vercel.app/
+## 🌟 Check out my portfolio:  <a href="https://devleena-portfolio-cts5.vercel.app/" target="_blank"> My_Portfolio </a> 
 
 ## 💡 My Journey: From Code to Creation
 
