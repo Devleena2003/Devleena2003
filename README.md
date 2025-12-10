@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 Check out my portfolio:  <a href="https://devleena-portfolio-cts5.vercel.app/" target="_blank"> my_portfolio </a> 
+## 🌟 Check out <a href="https://devleena-portfolio-cts5.vercel.app/" target="_blank"> my_portfolio </a> 
 
 ## 💡 My Journey: From Code to Creation
 
@@ -26,7 +26,7 @@ Hello! I'm Devleena, a passionate Computer Science and Engineering student on a 
 
 *   **Crafting Digital Solutions:** I thrive on transforming ideas into reality, whether it's architecting **responsive websites**, developing robust **Full-Stack applications (MERN)**, or creating intuitive **Native Mobile Apps (React Native)** that solve real-world problems.
 *   **Designing with Empathy:** My approach to **UI/UX Design** is user-centric, focusing on creating interfaces that are not just beautiful, but also accessible and a joy to interact with.
-*   **Venturing into New Frontiers:** The ever-evolving tech landscape excites me! I'm actively engaging with **Generative AI**, exploring its creative and practical applications, and delving into the decentralized world of **Blockchain technology**. My exploration into **Machine Learning** also continues, with a focus on predictive modeling and data-driven insights.
+*   **Venturing into New Frontiers:** The ever-evolving tech landscape excites me! I'm actively engaging with **Generative AI**, exploring its creative and practical applications. My exploration into **Machine Learning** also continues, with a focus on predictive modeling and data-driven insights.
 
 ## 🚀 Championing Change: SHEvolution
 
@@ -54,7 +54,7 @@ Here's a glimpse of the technologies I work with:
 
 ## 🌱 What I'm Seeking
 
-I'm actively looking for opportunities that will allow me to contribute my skills in **web & mobile development, UI/UX, ML, GenAI, and Blockchain** to innovative projects. I'm eager to join dynamic teams where I can continue to learn, grow, and help shape the future of technology. My passion for creating socially impactful solutions, from accessibility tools to sustainability apps, drives my ambition to make a tangible difference.
+I'm actively looking for opportunities that will allow me to contribute my skills in **web & mobile development, UI/UX, ML and GenAI** to innovative projects. I'm eager to join dynamic teams where I can continue to learn, grow, and help shape the future of technology. My passion for creating socially impactful solutions, from accessibility tools to sustainability apps, drives my ambition to make a tangible difference.
 
 ## 📊 My GitHub Pulse
 
